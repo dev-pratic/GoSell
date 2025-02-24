@@ -50,3 +50,17 @@ O projeto GoSell utiliza a versão 50 do Expo SDK. Certifique-se de estar usando
 expo install expo@50
 ```
 
+### Inicialização
+No terminal no vscode, ou no terminal Linux, acesse dê o comando:
+
+```sh
+npx expo start
+```
+
+Ou:
+
+```sh
+expo start
+```
+
+Com isso, o servidor iniciará, só ler o QRCode com o aplicativo ExpoGo no celular.
