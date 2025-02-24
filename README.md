@@ -10,6 +10,7 @@ Antes de iniciar, certifique-se de ter instalado:
 - npm (Versão: v10.9.2, incluído no Node.js)
 - Expo CLI
 - Git
+- Todas as instalações são na pasta do projeto
 
 ### Instalação
 
