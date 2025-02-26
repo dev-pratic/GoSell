@@ -96,3 +96,6 @@ Async Storage
 ```sh
 npm install @react-native-async-storage/async-storage
 ```
+
+### package-lock.json
+Há um informativo de dependências do app nesse arquivo, e suas versões. Algumas versões muito atualizadas de certas bibliotecas podem causar conflito.
