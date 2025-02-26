@@ -90,3 +90,9 @@ SQLite
 ```sh
 npm install --save react-native-sqlite-storage
 ```
+
+Async Storage
+
+```sh
+npm install @react-native-async-storage/async-storage
+```
