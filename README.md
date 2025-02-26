@@ -64,3 +64,29 @@ expo start
 ```
 
 Com isso, o servidor iniciará, só ler o QRCode com o aplicativo ExpoGo no celular.
+
+### Dependências (Caso encontre erros para iniciar)
+Falha do expo-asset:
+
+```sh
+npm install expo-asset
+```
+
+Limpe o cache se necessário:
+
+```sh
+expo start -c
+```
+
+Ou:
+
+```sh
+npx expo start --clear
+```
+
+
+SQLite
+
+```sh
+npm install --save react-native-sqlite-storage
+```
